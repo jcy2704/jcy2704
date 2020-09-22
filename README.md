@@ -57,8 +57,8 @@
 
 *<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
 <p align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/jcy2704?color=%23181717&label=Steven%20J%20Chung&logo=github&logoColor=%23181717&style=for-the-badge)
-  ![LinkedIn connections](https://img.shields.io/color=%23181717&label=Steven%20J%20Chung&logo=linkedin&logoColor=%0077B5&style=for-the-badge)
+  <img src="https://img.shields.io/github/followers/jcy2704?color=%23181717&label=Steven%20J%20Chung&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
+  <img src="https://img.shields.io/badge/Steven%20J%20Chung-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
 </p>
 
 <img height=160px src="assets/Footer.png" alt="footer">
