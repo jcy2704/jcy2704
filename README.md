@@ -1,12 +1,13 @@
 <img src="assets/Welcome.gif" alt="welcome gif">
 
-<h2 align="center">I'm Steven Chung, but you can call me Jack.</h2>
-*<p align="center">'There is a missing semicolon; in line 18 column years.'</p>*
+<h2 align="center">I'm Steven Chung, but you can call me Jack.🙋‍♂️</h2>
+<p align="center"><i><strong>'There is a missing semicolon; in line 18 column years.'</strong></i></p>
 
 <p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong> at the moment, but in the future you'll see me as a <b>professional</b>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning and more. Currently working on <b>HTML & CSS</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
+<br>
 
 <details>
-<summary>Some things I am working on</summary>
+<summary><strong>Some things I am working on</strong></summary>
 <br>
 
 - Mastering HTML & CSS
@@ -14,19 +15,46 @@
 - Sleep early 💤
 - Wake up early☀️
 
-<br><br>
+<br>
 </details>
 
 <hr>
+<br>
 
 <details>
-<summary>GitHub Stats</summary>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&theme=dark"></p>
+<summary><strong>I have knowledge on these languages</strong></summary>
+<br>
+
+<p><strong>IRL Languages:</strong></p>
+- Spanish
+- English
+<br>
+
+<p><strong>Programming Languages:</strong></p>
+- HTML
+- CSS
+- Javascript
+- React
+- Python
+<br>
+</details>
+
+<hr>
+<br>
+
+<details>
+<summary><strong>GitHub Stats</strong></summary>
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb"></p>
 <br/>
 </details>
 <hr>
 
 *<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
-<p align="center"><a href="https://github.com/jcy2704"><img width=30 height=30 src="assets/icons/github.svg" alt="github"></a><a href="https://www.linkedin.com/in/stevenjchung/"><img width=30 height=30 src="assets/icons/linkedin.svg" alt="linkedin"></a></p>
+<p align="center">
+<a href="https://github.com/jcy2704"><img width=30 height=30 src="assets/icons/github.svg" alt="github"></a>
+
+<a href="https://www.linkedin.com/in/stevenjchung/"><img width=30 height=30 src="assets/icons/linkedin.svg" alt="linkedin"></a>
+</p>
 
 <img src="assets/Footer.png" alt="footer">
