@@ -22,20 +22,24 @@
 <br>
 
 <details>
-  <summary><strong>I have knowledge on these languages</strong></summary>
+  <summary><strong>I have knowledge on these languages and tools</strong></summary>
   <br>
 
- <p><strong>IRL Languages:</strong></p>
+  <p><strong>IRL Languages:</strong></p>
+
   - Spanish
   - English
+
   <br>
 
   <p><strong>Programming Languages and Tools:</strong></p>
+
   - HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
   - CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
   - Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   - React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   - Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+
   <br>
 </details>
 
