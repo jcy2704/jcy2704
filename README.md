@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome!! 👋
 
 <!--
 **jcy2704/jcy2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### You've found my GitHub Profile. 👾
+**I am Steven, but you can call me Jack.** 🙋‍♂️
+
+**I'm a ![](https://img.shields.io/badge/Microverse-blueviolet) Student**
+
+**Currently working on:** HTML & CSS
+
+**Learning on my own:** REACT
+
+*🟢Currently Available for Professional Oportunities👨‍💻*
