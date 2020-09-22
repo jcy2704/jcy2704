@@ -53,6 +53,7 @@
   <br>
 </details>
 <hr>
+<br>
 
 *<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
 <p align="center">
@@ -60,4 +61,4 @@
   <a href="https://www.linkedin.com/in/stevenjchung/"><img width=30 height=30 src="assets/icons/linkedin.svg" alt="linkedin"></a>
 </p>
 
-<img src="assets/Footer.png" alt="footer">
+<img height=160px src="assets/Footer.png" alt="footer">
