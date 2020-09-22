@@ -63,6 +63,9 @@
   <a href="https://www.linkedin.com/in/stevenjchung">
     <img src="https://img.shields.io/badge/Steven%20J%20Chung-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
   </a>
+  <a href="mailto:stevenjchung12@gmail.com">
+    <img width=30 height=30 src="assets/icons/gmail.svg" alt="gmail">
+  </a>
 </p>
 
 <br>
