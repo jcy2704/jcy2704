@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### You've found my GitHub Profile. 👾
 **I am Steven, but you can call me Jack.** 🙋‍♂️
 
-**I'm a ![](https://img.shields.io/badge/Microverse-blueviolet) Student**
+**I'm a ![](https://img.shields.io/badge/Microverse-blueviolet) Student.**
 
 **Currently working on:** HTML & CSS
 
