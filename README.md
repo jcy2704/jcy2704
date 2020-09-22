@@ -68,5 +68,5 @@
   </a>
 </p>
 
-<br>
+<br><br>
 <img width=1140 height=100 src="assets/Footer.png" alt="footer">
