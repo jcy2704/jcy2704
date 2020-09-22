@@ -7,7 +7,7 @@
 <br>
 
 <details>
-  <summary><strong>Some things I am working on</strong></summary>
+  # <summary><strong>Some things I am working on</strong></summary>
   <br>
 
   - Mastering HTML & CSS
@@ -22,7 +22,7 @@
 <br>
 
 <details>
-  <summary><strong>I have knowledge on these languages and tools</strong></summary>
+  # <summary><strong>I have knowledge on these languages and tools</strong></summary>
   <br>
 
   <p><strong>IRL Languages:</strong></p>
@@ -47,7 +47,7 @@
 <br>
 
 <details>
-  <summary><strong>GitHub Stats</strong></summary>
+  # <summary><strong>GitHub Stats</strong></summary>
   <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"></p>
   <br>
@@ -65,4 +65,4 @@
   </a>
 </p>
 
-<img height=130px src="assets/Footer.png" alt="footer">
+<img width=1140 height=120 src="assets/Footer.png" alt="footer">
