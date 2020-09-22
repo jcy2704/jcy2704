@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### **<h3 align="center">Welcome!! 👋 I'm Steven Chung, but you can call me Jack.</h3>**
+### <h2 align="center">Welcome!! 👋 I'm Steven Chung, but you can call me Jack.</h2>
 ### *<p align="center">'There is a missing semicolon; in line 18 column life.'</p>*
 <br />
 
