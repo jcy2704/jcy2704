@@ -69,4 +69,4 @@
 </p>
 
 <br>
-<img width=1140 height=120 src="assets/Footer.png" alt="footer">
+<img width=1140 height=100 src="assets/Footer.png" alt="footer">
