@@ -1,4 +1,4 @@
-# Welcome!! 👋
+
 
 <!--
 **jcy2704/jcy2704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### You've found my GitHub Profile. 👾
-**I am Steven, but you can call me Jack.** 🙋‍♂️
+### **<h3 align="center">Welcome!! 👋 I'm Steven Chung, but you can call me Jack.</h3>**
+### *<p align="center">'There is a missing semicolon; in line 18 column life.'</p>*
+<br />
 
-**I'm a ![](https://img.shields.io/badge/Microverse-blueviolet) Student.**
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong> at the moment, but in the future you'll see me as a <b>professional</b>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning and more. Currently working on <b>HTML & CSS</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
 
-**Currently working on:** HTML & CSS
+*<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
+<p align="center">-- <a href="https://github.com/jcy2704">GitHub</a> | <a href="https://www.linkedin.com/in/stevenjchung/">LinkedIn</a> --</p>
 
-**Learning on my own:** REACT
-
-*🟢Currently Available for Professional Oportunities👨‍💻*
