@@ -7,54 +7,53 @@
 <br>
 
 <details>
-<summary><strong>Some things I am working on</strong></summary>
-<br>
+  <summary><strong>Some things I am working on</strong></summary>
+  <br>
 
-- Mastering HTML & CSS
-- Read 30 min a day📖
-- Sleep early 💤
-- Wake up early☀️
+  - Mastering HTML & CSS
+  - Read 30 min a day📖
+  - Sleep early 💤
+  - Wake up early☀️
 
-<br>
+  <br>
 </details>
 
 <hr>
 <br>
 
 <details>
-<summary><strong>I have knowledge on these languages</strong></summary>
-<br>
+  <summary><strong>I have knowledge on these languages</strong></summary>
+  <br>
 
-<p><strong>IRL Languages:</strong></p>
-- Spanish
-- English
-<br>
+ <p><strong>IRL Languages:</strong></p>
+  - Spanish
+  - English
+  <br>
 
-<p><strong>Programming Languages:</strong></p>
-- HTML
-- CSS
-- Javascript
-- React
-- Python
-<br>
+  <p><strong>Programming Languages and Tools:</strong></p>
+  - HTML <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  - CSS <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  - Javascript <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  - React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  - Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+  <br>
 </details>
 
 <hr>
 <br>
 
 <details>
-<summary><strong>GitHub Stats</strong></summary>
-<br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb"></p>
-<br/>
+  <summary><strong>GitHub Stats</strong></summary>
+  <br>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"></p>
+  <br>
 </details>
 <hr>
 
 *<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
 <p align="center">
-<a href="https://github.com/jcy2704"><img width=30 height=30 src="assets/icons/github.svg" alt="github"></a>
-
-<a href="https://www.linkedin.com/in/stevenjchung/"><img width=30 height=30 src="assets/icons/linkedin.svg" alt="linkedin"></a>
+  <a href="https://github.com/jcy2704"><img width=30 height=30 src="assets/icons/github.svg" alt="github"></a>
+  <a href="https://www.linkedin.com/in/stevenjchung/"><img width=30 height=30 src="assets/icons/linkedin.svg" alt="linkedin"></a>
 </p>
 
 <img src="assets/Footer.png" alt="footer">
