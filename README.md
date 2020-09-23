@@ -7,7 +7,7 @@
 <br>
 
 <details>
-  <summary><strong>Some things I am working on to be better</strong></summary>
+  <summary><strong>Some things I am trying to be better on</strong></summary>
   <br>
 
   - Mastering HTML & CSS
