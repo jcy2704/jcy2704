@@ -13,7 +13,7 @@
   <br>
     I am <b>18 years old</b>. I recently graduated from high school🏫 and I am trying to pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
    
-   <img height=450 width=380 align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/02be8576836201.5c75a43be6e98.gif" alt="gif">
+   <img height=450 width=340 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
    **Hobbies** 
    - Volleyball 🏐
