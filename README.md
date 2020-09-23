@@ -46,7 +46,6 @@
   - Sleep early 💤
   - Wake up early☀️
 
-  <br>
 </details>
 
 <hr>
@@ -71,7 +70,6 @@
   - React <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
   - Python <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
-  <br>
 </details>
 
 <hr>
@@ -81,7 +79,6 @@
   <summary><strong>GitHub Stats <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcy2704&layout=compact&show_icons=true&bg_color=30,d1b5cb,697aa2&title_color=2d6892&icon_color=2d6892"></p>
-  <br>
 </details>
 <hr>
 <br>
