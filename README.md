@@ -7,6 +7,37 @@
 <br>
 
 <details>
+  <summary><strong>More About Me</strong></summary>
+  <br>
+  <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
+  <br>
+    I am <b>18 years old</b>. I recently graduated from high school🏫 and I am trying to pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
+   
+   <img height=450 width=380 align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/02be8576836201.5c75a43be6e98.gif" alt="gif">
+  
+   **Hobbies** 
+   - Volleyball 🏐
+   - Coding 👨‍💻
+   - Exercise 🏃‍♂️
+   - Gaming 🖱️
+   
+   **Fun facts**
+   - I won a Volleyball tournament
+   - I am addicted to Oreos
+   - I want to be more creative
+   - I have interest in business and investments
+   
+  **I am currently**
+   - Reading 'The 10X Rule by Grant Cardone'📖
+   - Learning ReactJS
+   - Eating a Oreo
+   
+</details>
+
+<hr>
+<br>
+
+<details>
   <summary><strong>Some things I am trying to be better on</strong></summary>
   <br>
 
