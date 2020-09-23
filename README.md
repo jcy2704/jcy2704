@@ -6,11 +6,6 @@
 <p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, but in the future, you'll see me as a <b>professional</b>. I am <b>passionate</b> about coding, not just web development, but I also want to learn about machine learning and more. Currently working on <b>HTML & CSS</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
 <br>
 
-</details>
-
-<hr>
-<br>
-
 <details>
   <summary><strong>Some things I am working on to be better</strong></summary>
   <br>
