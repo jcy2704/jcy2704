@@ -77,10 +77,20 @@
 <br>
 
 <details>
+  <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong><summary>
+  <!--START_SECTION:activity-->
+
+</details>
+
+<hr>
+<br>
+
+<details>
   <summary><strong>GitHub Stats <img width=17 height=17 src="assets/icons/github.svg" alt="github icon"></strong></summary>
   <br>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jcy2704&show_icons=true&bg_color=30,697aa2,d1b5cb&title_color=2d6892&icon_color=2d6892"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcy2704&layout=compact&show_icons=true&bg_color=30,d1b5cb,697aa2&title_color=2d6892&icon_color=2d6892"></p>
 </details>
+
 <hr>
 <br>
 
