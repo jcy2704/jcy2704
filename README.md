@@ -13,7 +13,7 @@
   <br>
     I am <b>18 years old</b>. I recently graduated from high school🏫 and I am trying to pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
    
-   <img height=420 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
+   <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
    **Hobbies** 
    - Volleyball 🏐
@@ -29,6 +29,7 @@
    
   **I am currently**
    - Reading 'The 10X Rule by Grant Cardone'📖
+   - Working with HTML & CSS
    - Learning ReactJS
    - Eating a Oreo
    
