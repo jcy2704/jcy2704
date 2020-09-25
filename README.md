@@ -85,6 +85,7 @@
 3. 🗣 Commented on [#1](https://github.com//jcy2704/smashing-magazine/issues/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
 4. ❗️ Closed issue [#2](https://github.com//marcelomaidden/newyorktimes_microverse/issues/2) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
 5. ❗️ Opened issue [#2](https://github.com//marcelomaidden/newyorktimes_microverse/issues/2) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
+6. 
 <!--END_SECTION:activity-->
 
 </details>
