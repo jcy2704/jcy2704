@@ -80,6 +80,12 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
+1. 
+2. 
+3. 
+4. 
+5. 
+<!--END_SECTION:activity-->
 
 </details>
 
