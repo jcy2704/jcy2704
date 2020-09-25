@@ -80,11 +80,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 
-2. 
-3. 
-4. 
-5. 
+1. 🗣 Commented on [#1](https://github.com//jcy2704/smashing-magazine/issues/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
+2. ❗️ Closed issue [#2](https://github.com//marcelomaidden/newyorktimes_microverse/issues/2) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
+3. ❗️ Opened issue [#2](https://github.com//marcelomaidden/newyorktimes_microverse/issues/2) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
+4. 🗣 Commented on [#2](https://github.com//carloso0114/html-forms/issues/2) in [carloso0114/html-forms](https://github.com//carloso0114/html-forms)
+5. ❗️ Closed issue [#3](https://github.com//jcy2704/Forms/issues/3) in [jcy2704/Forms](https://github.com//jcy2704/Forms)
 <!--END_SECTION:activity-->
 
 </details>
