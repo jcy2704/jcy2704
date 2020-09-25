@@ -1,4 +1,4 @@
-name: Update Activity on README.md
+name: Update README
 
 on:
   schedule:
@@ -15,3 +15,5 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT-MSG: 'Update Activity on README.md'
