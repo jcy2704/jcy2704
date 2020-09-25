@@ -79,7 +79,7 @@
 <details>
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
-  <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
 </details>
 
