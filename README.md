@@ -81,9 +81,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//jcy2704/thenextweb/issues/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
-2. ❗️ Opened issue [#3](https://github.com//marcelomaidden/newyorktimes_microverse/issues/3) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
-3. 🎉 Merged PR [#1](https://github.com//jcy2704/smashing-magazine/pull/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
-4. 🗣 Commented on [#1](https://github.com//jcy2704/smashing-magazine/issues/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
+2. 🗣 Commented on [#1](https://github.com//jcy2704/thenextweb/issues/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
+3. ❗️ Opened issue [#3](https://github.com//marcelomaidden/newyorktimes_microverse/issues/3) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
+4. 🎉 Merged PR [#1](https://github.com//jcy2704/smashing-magazine/pull/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
 5. 🗣 Commented on [#1](https://github.com//jcy2704/smashing-magazine/issues/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
 <!--END_SECTION:activity-->
 
