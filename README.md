@@ -80,11 +80,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//jcy2704/thenextweb/pull/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
-2. 🗣 Commented on [#1](https://github.com//jcy2704/thenextweb/issues/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
+1. ❗️ Opened issue [#1](https://github.com//jcy2704/newsweek/issues/1) in [jcy2704/newsweek](https://github.com//jcy2704/newsweek)
+2. 🎉 Merged PR [#1](https://github.com//jcy2704/thenextweb/pull/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
 3. 🗣 Commented on [#1](https://github.com//jcy2704/thenextweb/issues/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
-4. ❗️ Opened issue [#3](https://github.com//marcelomaidden/newyorktimes_microverse/issues/3) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
-5. 🎉 Merged PR [#1](https://github.com//jcy2704/smashing-magazine/pull/1) in [jcy2704/smashing-magazine](https://github.com//jcy2704/smashing-magazine)
+4. 🗣 Commented on [#1](https://github.com//jcy2704/thenextweb/issues/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
+5. ❗️ Opened issue [#3](https://github.com//marcelomaidden/newyorktimes_microverse/issues/3) in [marcelomaidden/newyorktimes_microverse](https://github.com//marcelomaidden/newyorktimes_microverse)
 <!--END_SECTION:activity-->
 
 </details>
