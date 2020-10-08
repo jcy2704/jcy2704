@@ -80,11 +80,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//julian3493/newsweek-using-bootstrap/issues/2) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
-2. 🎉 Merged PR [#1](https://github.com//julian3493/newsweek-using-bootstrap/pull/1) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
-3. 💪 Opened PR [#1](https://github.com//julian3493/newsweek-using-bootstrap/pull/1) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
-4. ❗️ Opened issue [#1](https://github.com//jcy2704/newsweek/issues/1) in [jcy2704/newsweek](https://github.com//jcy2704/newsweek)
-5. 🎉 Merged PR [#1](https://github.com//jcy2704/thenextweb/pull/1) in [jcy2704/thenextweb](https://github.com//jcy2704/thenextweb)
+1. 🗣 Commented on [#3](https://github.com//StarSheriff2/apple-old-website-clone/issues/3) in [StarSheriff2/apple-old-website-clone](https://github.com//StarSheriff2/apple-old-website-clone)
+2. ❗️ Opened issue [#2](https://github.com//julian3493/newsweek-using-bootstrap/issues/2) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
+3. 🎉 Merged PR [#1](https://github.com//julian3493/newsweek-using-bootstrap/pull/1) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
+4. 💪 Opened PR [#1](https://github.com//julian3493/newsweek-using-bootstrap/pull/1) in [julian3493/newsweek-using-bootstrap](https://github.com//julian3493/newsweek-using-bootstrap)
+5. ❗️ Opened issue [#1](https://github.com//jcy2704/newsweek/issues/1) in [jcy2704/newsweek](https://github.com//jcy2704/newsweek)
 <!--END_SECTION:activity-->
 
 </details>
