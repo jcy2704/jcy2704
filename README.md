@@ -80,11 +80,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
-2. 🗣 Commented on [#3](https://github.com//marcelomaidden/theNextWeb/issues/3) in [marcelomaidden/theNextWeb](https://github.com//marcelomaidden/theNextWeb)
-3. 🎉 Merged PR [#1](https://github.com//jcy2704/directory-capstone/pull/1) in [jcy2704/directory-capstone](https://github.com//jcy2704/directory-capstone)
-4. 💪 Opened PR [#1](https://github.com//jcy2704/directory-capstone/pull/1) in [jcy2704/directory-capstone](https://github.com//jcy2704/directory-capstone)
-5. 🗣 Commented on [#3](https://github.com//StarSheriff2/apple-old-website-clone/issues/3) in [StarSheriff2/apple-old-website-clone](https://github.com//StarSheriff2/apple-old-website-clone)
+1. 🎉 Merged PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
+2. 💪 Opened PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
+3. 🗣 Commented on [#3](https://github.com//marcelomaidden/theNextWeb/issues/3) in [marcelomaidden/theNextWeb](https://github.com//marcelomaidden/theNextWeb)
+4. 🎉 Merged PR [#1](https://github.com//jcy2704/directory-capstone/pull/1) in [jcy2704/directory-capstone](https://github.com//jcy2704/directory-capstone)
+5. 💪 Opened PR [#1](https://github.com//jcy2704/directory-capstone/pull/1) in [jcy2704/directory-capstone](https://github.com//jcy2704/directory-capstone)
 <!--END_SECTION:activity-->
 
 </details>
