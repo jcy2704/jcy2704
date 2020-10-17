@@ -80,11 +80,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//jcy2704/oop_ruby/pull/1) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-2. 💪 Opened PR [#1](https://github.com//jcy2704/oop_ruby/pull/1) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-3. 🎉 Merged PR [#1](https://github.com//thneves/my_enumerables/pull/1) in [thneves/my_enumerables](https://github.com//thneves/my_enumerables)
-4. 🎉 Merged PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
-5. 💪 Opened PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
+1. 🎉 Merged PR [#2](https://github.com//jcy2704/oop_ruby/pull/2) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+2. 🎉 Merged PR [#1](https://github.com//jcy2704/oop_ruby/pull/1) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+3. 💪 Opened PR [#1](https://github.com//jcy2704/oop_ruby/pull/1) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+4. 🎉 Merged PR [#1](https://github.com//thneves/my_enumerables/pull/1) in [thneves/my_enumerables](https://github.com//thneves/my_enumerables)
+5. 🎉 Merged PR [#1](https://github.com//jcy2704/bubble_sort/pull/1) in [jcy2704/bubble_sort](https://github.com//jcy2704/bubble_sort)
 <!--END_SECTION:activity-->
 
 </details>
