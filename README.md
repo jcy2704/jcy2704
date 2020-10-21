@@ -81,11 +81,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//jcy2704/oop_ruby/pull/6) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-2. 💪 Opened PR [#6](https://github.com//jcy2704/oop_ruby/pull/6) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-3. 🎉 Merged PR [#4](https://github.com//jcy2704/oop_ruby/pull/4) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-4. 💪 Opened PR [#4](https://github.com//jcy2704/oop_ruby/pull/4) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
-5. 🎉 Merged PR [#2](https://github.com//jcy2704/oop_ruby/pull/2) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+1. 💪 Opened PR [#21822](https://github.com//TheOdinProject/curriculum/pull/21822) in [TheOdinProject/curriculum](https://github.com//TheOdinProject/curriculum)
+2. 🎉 Merged PR [#6](https://github.com//jcy2704/oop_ruby/pull/6) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+3. 💪 Opened PR [#6](https://github.com//jcy2704/oop_ruby/pull/6) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+4. 🎉 Merged PR [#4](https://github.com//jcy2704/oop_ruby/pull/4) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+5. 💪 Opened PR [#4](https://github.com//jcy2704/oop_ruby/pull/4) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
 <!--END_SECTION:activity-->
 
 </details>
