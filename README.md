@@ -29,7 +29,7 @@
    
   **I am currently**
    - Reading 'The 10X Rule by Grant Cardone'📖
-   - Working with HTML & CSS
+   - Working with Ruby
    - Learning ReactJS
    - Eating a Oreo
    
