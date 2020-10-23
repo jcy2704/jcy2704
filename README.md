@@ -102,7 +102,7 @@
 <hr>
 <br>
 
-*<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>*
+***<p align="center">🟢Currently Available for Professional Oportunities👨‍💻</p>***
 <p align="center">
   <a href="https://github.com/jcy2704">
     <img src="https://img.shields.io/github/followers/jcy2704?color=%23181717&label=JCY2704&logo=github&logoColor=%23181717&style=for-the-badge" alt="github badge">
