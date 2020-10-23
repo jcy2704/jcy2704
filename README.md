@@ -11,7 +11,7 @@
   <br>
   <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
   <br>
-    I am <b>18 years old</b>. I recently graduated from high school🏫 and I am trying to pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
+    I am <b>18 years old</b>. I recently graduated from high school 🏫 and I will pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
    
    <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
