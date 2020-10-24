@@ -110,9 +110,13 @@
   <a href="https://www.linkedin.com/in/stevenjchung">
     <img src="https://img.shields.io/badge/Steven%20J%20Chung-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="linkedin badge">
   </a>
+  <a href="https://twitter.com/yiak_">
+    <img src="https://img.shields.io/twitter/follow/yiak_?color=%231DA1F2&label=FOLLOW&logo=twitter&style=for-the-badge" alt="twitter badge">
+  </a>
   <a href="mailto:stevenjchung12@gmail.com">
     <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
   </a>
+  
 </p>
 
 <br><br>
