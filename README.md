@@ -81,11 +81,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com//jcy2704/tic-tac-toe/issues/8) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-2. ❗️ Closed issue [#7](https://github.com//jcy2704/tic-tac-toe/issues/7) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-3. ❗️ Opened issue [#8](https://github.com//jcy2704/tic-tac-toe/issues/8) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-4. 💪 Opened PR [#21822](https://github.com//TheOdinProject/curriculum/pull/21822) in [TheOdinProject/curriculum](https://github.com//TheOdinProject/curriculum)
-5. 🎉 Merged PR [#6](https://github.com//jcy2704/oop_ruby/pull/6) in [jcy2704/oop_ruby](https://github.com//jcy2704/oop_ruby)
+1. 🗣 Commented on [#2](https://github.com//marcelomaidden/enumerables/issues/2) in [marcelomaidden/enumerables](https://github.com//marcelomaidden/enumerables)
+2. ❗️ Closed issue [#8](https://github.com//jcy2704/tic-tac-toe/issues/8) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
+3. ❗️ Closed issue [#7](https://github.com//jcy2704/tic-tac-toe/issues/7) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
+4. ❗️ Opened issue [#8](https://github.com//jcy2704/tic-tac-toe/issues/8) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
+5. 💪 Opened PR [#21822](https://github.com//TheOdinProject/curriculum/pull/21822) in [TheOdinProject/curriculum](https://github.com//TheOdinProject/curriculum)
 <!--END_SECTION:activity-->
 
 </details>
