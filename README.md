@@ -81,11 +81,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com//jcy2704/tic-tac-toe/pull/10) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-2. 🎉 Merged PR [#2](https://github.com//jcy2704/my_enumerables/pull/2) in [jcy2704/my_enumerables](https://github.com//jcy2704/my_enumerables)
-3. 🎉 Merged PR [#9](https://github.com//jcy2704/tic-tac-toe/pull/9) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-4. 💪 Opened PR [#9](https://github.com//jcy2704/tic-tac-toe/pull/9) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
-5. 💪 Opened PR [#2](https://github.com//jcy2704/my_enumerables/pull/2) in [jcy2704/my_enumerables](https://github.com//jcy2704/my_enumerables)
+1. 🎉 Merged PR [#10](https://github.com//jcy2704/tic-tac-toe/pull/10) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
+2. 🗣 Commented on [#105](https://github.com//microverseinc/linters-config/issues/105) in [microverseinc/linters-config](https://github.com//microverseinc/linters-config)
+3. 💪 Opened PR [#10](https://github.com//jcy2704/tic-tac-toe/pull/10) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
+4. 🎉 Merged PR [#2](https://github.com//jcy2704/my_enumerables/pull/2) in [jcy2704/my_enumerables](https://github.com//jcy2704/my_enumerables)
+5. 🎉 Merged PR [#9](https://github.com//jcy2704/tic-tac-toe/pull/9) in [jcy2704/tic-tac-toe](https://github.com//jcy2704/tic-tac-toe)
 <!--END_SECTION:activity-->
 
 </details>
