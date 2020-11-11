@@ -29,7 +29,7 @@
    
   **I am currently**
    - Reading 'The 10X Rule by Grant Cardone'📖
-   - Working with Ruby
+   - Working with Ruby on Rails
    - Learning ReactJS
    - Eating a Oreo
    
@@ -42,7 +42,7 @@
   <summary><strong>Some things I am trying to be better on 🔧</strong></summary>
   <br>
 
-  - Mastering Ruby
+  - Mastering Ruby on Rails
   - Read 30 min a day📖
   - Sleep early 💤
   - Wake up early☀️
