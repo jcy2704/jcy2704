@@ -91,11 +91,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//jcy2704/micro-reddit/pull/1) in [jcy2704/micro-reddit](https://github.com//jcy2704/micro-reddit)
-2. 💪 Opened PR [#1](https://github.com//jcy2704/re-former/pull/1) in [jcy2704/re-former](https://github.com//jcy2704/re-former)
-3. 💪 Opened PR [#1](https://github.com//jcy2704/micro-reddit/pull/1) in [jcy2704/micro-reddit](https://github.com//jcy2704/micro-reddit)
-4. ❗️ Closed issue [#2](https://github.com//jcy2704/blogger/issues/2) in [jcy2704/blogger](https://github.com//jcy2704/blogger)
-5. ❗️ Opened issue [#2](https://github.com//jcy2704/blogger/issues/2) in [jcy2704/blogger](https://github.com//jcy2704/blogger)
+1. 🎉 Merged PR [#1](https://github.com//jcy2704/re-former/pull/1) in [jcy2704/re-former](https://github.com//jcy2704/re-former)
+2. 🎉 Merged PR [#1](https://github.com//jcy2704/micro-reddit/pull/1) in [jcy2704/micro-reddit](https://github.com//jcy2704/micro-reddit)
+3. 💪 Opened PR [#1](https://github.com//jcy2704/re-former/pull/1) in [jcy2704/re-former](https://github.com//jcy2704/re-former)
+4. 💪 Opened PR [#1](https://github.com//jcy2704/micro-reddit/pull/1) in [jcy2704/micro-reddit](https://github.com//jcy2704/micro-reddit)
+5. ❗️ Closed issue [#2](https://github.com//jcy2704/blogger/issues/2) in [jcy2704/blogger](https://github.com//jcy2704/blogger)
 <!--END_SECTION:activity-->
 
 </details>
