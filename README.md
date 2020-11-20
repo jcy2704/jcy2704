@@ -91,11 +91,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//marcelomaidden/private-events/issues/1) in [marcelomaidden/private-events](https://github.com//marcelomaidden/private-events)
-2. 🎉 Merged PR [#2](https://github.com//jcy2704/members-only/pull/2) in [jcy2704/members-only](https://github.com//jcy2704/members-only)
-3. ❌ Closed PR [#1](https://github.com//jcy2704/members-only/pull/1) in [jcy2704/members-only](https://github.com//jcy2704/members-only)
-4. 🎉 Merged PR [#1](https://github.com//jcy2704/re-former/pull/1) in [jcy2704/re-former](https://github.com//jcy2704/re-former)
-5. 🎉 Merged PR [#1](https://github.com//jcy2704/micro-reddit/pull/1) in [jcy2704/micro-reddit](https://github.com//jcy2704/micro-reddit)
+1. 🎉 Merged PR [#2](https://github.com//marcelomaidden/private-events/pull/2) in [marcelomaidden/private-events](https://github.com//marcelomaidden/private-events)
+2. ❗️ Opened issue [#1](https://github.com//marcelomaidden/private-events/issues/1) in [marcelomaidden/private-events](https://github.com//marcelomaidden/private-events)
+3. 🎉 Merged PR [#2](https://github.com//jcy2704/members-only/pull/2) in [jcy2704/members-only](https://github.com//jcy2704/members-only)
+4. ❌ Closed PR [#1](https://github.com//jcy2704/members-only/pull/1) in [jcy2704/members-only](https://github.com//jcy2704/members-only)
+5. 🎉 Merged PR [#1](https://github.com//jcy2704/re-former/pull/1) in [jcy2704/re-former](https://github.com//jcy2704/re-former)
 <!--END_SECTION:activity-->
 
 </details>
