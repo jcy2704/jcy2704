@@ -91,8 +91,8 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//jcy2704/inventory/pull/1) in [jcy2704/inventory](https://github.com//jcy2704/inventory)
-2. 💪 Opened PR [#1](https://github.com//jcy2704/stay-in-touch/pull/1) in [jcy2704/stay-in-touch](https://github.com//jcy2704/stay-in-touch)
+1. ❗️ Opened issue [#2](https://github.com//jcy2704/inventory/issues/2) in [jcy2704/inventory](https://github.com//jcy2704/inventory)
+2. 💪 Opened PR [#1](https://github.com//jcy2704/inventory/pull/1) in [jcy2704/inventory](https://github.com//jcy2704/inventory)
 3. 🎉 Merged PR [#1](https://github.com//jcy2704/private-events/pull/1) in [jcy2704/private-events](https://github.com//jcy2704/private-events)
 4. 💪 Opened PR [#1](https://github.com//jcy2704/private-events/pull/1) in [jcy2704/private-events](https://github.com//jcy2704/private-events)
 5. 🎉 Merged PR [#3](https://github.com//marcelomaidden/private-events/pull/3) in [marcelomaidden/private-events](https://github.com//marcelomaidden/private-events)
