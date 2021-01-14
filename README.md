@@ -3,7 +3,7 @@
 <h2 align="center">I'm Steven Chung, but you can call me Jack.🙋‍♂️</h2>
 <p align="center"><i><strong>'You decide your own future on your own way.'</strong></i></p>
 
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>, but in the future, you'll see me as a <b>professional</b>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>Ruby on Rails</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>JavaScript</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
 <br>
 
 <details>
@@ -11,7 +11,7 @@
   <br>
   <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
   <br>
-    I am <b>18 years old</b>. I recently graduated from high school 🏫 and I will pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I had interest in coding since 7th grade, but never really put my mind into coding because of school.</p>
+    I am <b>18 years old</b>. I recently graduated from high school 🏫 and I will pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I have had an interest in coding since 7th grade, but never really focused on learning to code until now because of school</p>
    
    <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
@@ -25,11 +25,11 @@
    - I won a Volleyball tournament
    - I am addicted to Oreos
    - I want to be more creative
-   - I have interest in business and investments
+   - I am interested in business and investments
    
   **I am currently**
    - Reading 'The 10X Rule by Grant Cardone'📖
-   - Working with Ruby on Rails
+   - Working with JavaScript
    - Learning ReactJS
    - Eating a Oreo
    
@@ -39,13 +39,13 @@
 <br>
 
 <details>
-  <summary><strong>Some things I am trying to be better on 🔧</strong></summary>
+  <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
 
-  - Mastering Ruby on Rails
+  - Mastering JavaScript
   - Read 30 min a day📖
   - Sleep early 💤
-  - Wake up early☀️
+  - Wake up early ☀️
 
 </details>
 
@@ -53,7 +53,7 @@
 <br>
 
 <details>
-  <summary><strong>I have knowledge on these languages and tools 🧠</strong></summary>
+  <summary><strong>I have knowledge in these languages and tools 🧠</strong></summary>
   <br>
 
   <p><strong>IRL Languages:</strong></p>
@@ -63,23 +63,37 @@
 
   <br>
 
-  <p><strong>Programming Languages and Tools:</strong></p>
+  <p><strong>Front-end Languages</strong></p>
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5">
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"> 
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> 
+  
+  <br>
+  <br>
+  
+  <p><strong>Backend-end Languages</strong></p>
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" alt="Ruby">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
   <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python">
-  <img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails">
-  <img height="35" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git">
-  <img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL">
+  
+  <br>
+  <br>
+  
+  <p><strong>Tools</strong></p>
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">
   
   <br>
   <br>
   
   <p><strong>Frameworks</strong></p>
   
-  <img height="35" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="Ruby on Rails">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">
+  <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap">
   
 
 </details>
