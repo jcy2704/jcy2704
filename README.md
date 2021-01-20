@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//jcy2704/weather-app/pull/1) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
-2. ❗️ Closed issue [#2](https://github.com//jcy2704/restaurant-page/issues/2) in [jcy2704/restaurant-page](https://github.com//jcy2704/restaurant-page)
-3. 🎉 Merged PR [#1](https://github.com//jcy2704/restaurant-page/pull/1) in [jcy2704/restaurant-page](https://github.com//jcy2704/restaurant-page)
-4. ❗️ Closed issue [#3](https://github.com//jcy2704/restaurant-page/issues/3) in [jcy2704/restaurant-page](https://github.com//jcy2704/restaurant-page)
-5. ❗️ Opened issue [#3](https://github.com//jcy2704/restaurant-page/issues/3) in [jcy2704/restaurant-page](https://github.com//jcy2704/restaurant-page)
+1. 🎉 Merged PR [#5](https://github.com//jcy2704/weather-app/pull/5) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+2. 💪 Opened PR [#5](https://github.com//jcy2704/weather-app/pull/5) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+3. ❗️ Opened issue [#4](https://github.com//jcy2704/weather-app/issues/4) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+4. ❗️ Opened issue [#3](https://github.com//jcy2704/weather-app/issues/3) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+5. ❗️ Opened issue [#2](https://github.com//jcy2704/weather-app/issues/2) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
 <!--END_SECTION:activity-->
 
 </details>
