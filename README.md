@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//jcy2704/endless-runner/issues/1) in [jcy2704/endless-runner](https://github.com//jcy2704/endless-runner)
-2. ❗️ Closed issue [#6](https://github.com//jcy2704/weather-app/issues/6) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
-3. 💪 Opened PR [#3](https://github.com//martinnajjar12/to-do-list/pull/3) in [martinnajjar12/to-do-list](https://github.com//martinnajjar12/to-do-list)
-4. ❗️ Opened issue [#6](https://github.com//jcy2704/weather-app/issues/6) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
-5. 🎉 Merged PR [#5](https://github.com//jcy2704/weather-app/pull/5) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+1. ❗️ Closed issue [#1](https://github.com//jcy2704/endless-forest/issues/1) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
+2. ❗️ Opened issue [#1](https://github.com//jcy2704/endless-runner/issues/1) in [jcy2704/endless-runner](https://github.com//jcy2704/endless-runner)
+3. ❗️ Closed issue [#6](https://github.com//jcy2704/weather-app/issues/6) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
+4. 💪 Opened PR [#3](https://github.com//martinnajjar12/to-do-list/pull/3) in [martinnajjar12/to-do-list](https://github.com//martinnajjar12/to-do-list)
+5. ❗️ Opened issue [#6](https://github.com//jcy2704/weather-app/issues/6) in [jcy2704/weather-app](https://github.com//jcy2704/weather-app)
 <!--END_SECTION:activity-->
 
 </details>
