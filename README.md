@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//jcy2704/calculator/pull/2) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
-2. 🎉 Merged PR [#1](https://github.com//jcy2704/calculator/pull/1) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
-3. 🎉 Merged PR [#2](https://github.com//jcy2704/endless-forest/pull/2) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
-4. 🗣 Commented on [#2](https://github.com//jcy2704/endless-forest/issues/2) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
-5. 💪 Opened PR [#2](https://github.com//jcy2704/endless-forest/pull/2) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
+1. 🎉 Merged PR [#2](https://github.com//jcy2704/calculator/pull/2) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
+2. 💪 Opened PR [#2](https://github.com//jcy2704/calculator/pull/2) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
+3. 🎉 Merged PR [#1](https://github.com//jcy2704/calculator/pull/1) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
+4. 🎉 Merged PR [#2](https://github.com//jcy2704/endless-forest/pull/2) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
+5. 🗣 Commented on [#2](https://github.com//jcy2704/endless-forest/issues/2) in [jcy2704/endless-forest](https://github.com//jcy2704/endless-forest)
 <!--END_SECTION:activity-->
 
 </details>
