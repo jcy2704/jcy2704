@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-2. 💪 Opened PR [#1](https://github.com//jcy2704/bookstore/pull/1) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-3. 🎉 Merged PR [#6](https://github.com//jcy2704/calculator/pull/6) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
-4. 💪 Opened PR [#6](https://github.com//jcy2704/calculator/pull/6) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
-5. ❗️ Closed issue [#4](https://github.com//jcy2704/calculator/issues/4) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
+1. 🎉 Merged PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+2. 💪 Opened PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+3. 💪 Opened PR [#1](https://github.com//jcy2704/bookstore/pull/1) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+4. 🎉 Merged PR [#6](https://github.com//jcy2704/calculator/pull/6) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
+5. 💪 Opened PR [#6](https://github.com//jcy2704/calculator/pull/6) in [jcy2704/calculator](https://github.com//jcy2704/calculator)
 <!--END_SECTION:activity-->
 
 </details>
