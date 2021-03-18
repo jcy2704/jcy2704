@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com//jcy2704/reviewing-a-pull-request/pull/4) in [jcy2704/reviewing-a-pull-request](https://github.com//jcy2704/reviewing-a-pull-request)
-2. ❗️ Opened issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-3. 🎉 Merged PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-4. 💪 Opened PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-5. 🗣 Commented on [#1](https://github.com//alexisbec/members-only/issues/1) in [alexisbec/members-only](https://github.com//alexisbec/members-only)
+1. 🎉 Merged PR [#4](https://github.com//jcy2704/reviewing-a-pull-request/pull/4) in [jcy2704/reviewing-a-pull-request](https://github.com//jcy2704/reviewing-a-pull-request)
+2. 💪 Opened PR [#4](https://github.com//jcy2704/reviewing-a-pull-request/pull/4) in [jcy2704/reviewing-a-pull-request](https://github.com//jcy2704/reviewing-a-pull-request)
+3. ❗️ Opened issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+4. 🎉 Merged PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+5. 💪 Opened PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 <!--END_SECTION:activity-->
 
 </details>
