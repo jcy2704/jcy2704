@@ -105,11 +105,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-2. 💪 Opened PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-3. 🗣 Commented on [#1](https://github.com//alexisbec/members-only/issues/1) in [alexisbec/members-only](https://github.com//alexisbec/members-only)
-4. 🎉 Merged PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-5. 💪 Opened PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+1. ❗️ Opened issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+2. 🎉 Merged PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+3. 💪 Opened PR [#3](https://github.com//jcy2704/bookstore/pull/3) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+4. 🗣 Commented on [#1](https://github.com//alexisbec/members-only/issues/1) in [alexisbec/members-only](https://github.com//alexisbec/members-only)
+5. 🎉 Merged PR [#2](https://github.com//jcy2704/bookstore/pull/2) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 <!--END_SECTION:activity-->
 
 </details>
