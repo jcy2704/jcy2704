@@ -110,7 +110,7 @@
 2. 🎉 Merged PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 3. 💪 Opened PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 4. ❗️ Closed issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-5. 🎉 Merged PR [#4](https://github.com//jcy2704/reviewing-a-pull-request/pull/4) in [jcy2704/reviewing-a-pull-request](https://github.com//jcy2704/reviewing-a-pull-request)
+5. ❗️ Opened issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 <!--END_SECTION:activity-->
 
 </details>
