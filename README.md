@@ -106,11 +106,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com//jcy2704/bookstore/pull/6) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-2. 🎉 Merged PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-3. 💪 Opened PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-4. ❗️ Closed issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
-5. ❗️ Opened issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+1. 🎉 Merged PR [#6](https://github.com//jcy2704/bookstore/pull/6) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+2. 💪 Opened PR [#6](https://github.com//jcy2704/bookstore/pull/6) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+3. 🎉 Merged PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+4. 💪 Opened PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+5. ❗️ Closed issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 <!--END_SECTION:activity-->
 
 </details>
