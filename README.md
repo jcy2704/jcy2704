@@ -106,7 +106,7 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com//jcy2704/bookstore/pull/6) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+1. 💪 Opened PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
 2. 💪 Opened PR [#6](https://github.com//jcy2704/bookstore/pull/6) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 3. 🎉 Merged PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
 4. 💪 Opened PR [#5](https://github.com//jcy2704/bookstore/pull/5) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
