@@ -106,11 +106,11 @@
   <summary><strong>GitHub Activity <img width=17 height=17 src="assets/icons/activity.svg" alt="activity icon"></strong></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com//jcy2704/movie-finder/pull/2) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-2. ❌ Closed PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-3. 🗣 Commented on [#1](https://github.com//jcy2704/movie-finder/issues/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-4. 💪 Opened PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
-5. ❗️ Closed issue [#4](https://github.com//jcy2704/bookstore/issues/4) in [jcy2704/bookstore](https://github.com//jcy2704/bookstore)
+1. 🎉 Merged PR [#2](https://github.com//jcy2704/movie-finder/pull/2) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
+2. 💪 Opened PR [#2](https://github.com//jcy2704/movie-finder/pull/2) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
+3. ❌ Closed PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
+4. 🗣 Commented on [#1](https://github.com//jcy2704/movie-finder/issues/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
+5. 💪 Opened PR [#1](https://github.com//jcy2704/movie-finder/pull/1) in [jcy2704/movie-finder](https://github.com//jcy2704/movie-finder)
 <!--END_SECTION:activity-->
 
 </details>
