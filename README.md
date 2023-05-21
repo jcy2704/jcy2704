@@ -3,7 +3,7 @@
 <h2 align="center">I'm Steven Chung, but you can call me Jack.🙋‍♂️</h2>
 <p align="center"><i><strong>'You decide your own future on your own way.'</strong></i></p>
 
-<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong><a href="https://microverse.org">Microverse</a></strong>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning, AI, and more. Currently working on <b>JavaScript</b> projects, but I will master other languages to become a <b>Full-Stack Developer.</b></p>
+<p align="justify"> Hey, welcome. I see you've found my <b><a href="https://github.com/jcy2704">GitHub Profile</a></b>. I am currently a <b>student</b> at <strong>The University of Adelaide</strong>. I am <b>passionate</b> about coding, not just web development, but also want to learn about machine learning, AI, and more. I've mastered the basic fundamentals of programming such as OOP and languages such as Javascript and C++.</p>
 <br>
 
 <details>
@@ -11,7 +11,7 @@
   <br>
   <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
   <br>
-    I am <b>18 years old</b>. I recently graduated from high school 🏫 and I will pursue a career in <b>Computer Science</b> (waiting for University acceptance) meanwhile I am learning how to code. I have had an interest in coding since 7th grade, but never really focused on learning to code until now because of school</p>
+    I am <b>21 years old</b>. I graduated from high school 🏫 and pursuing a career in <b>Computer Science</b> at the University of Adelaide. I have had an interest in coding since 7th grade and had the amazing opportunity to master Web Development from the Microverse Coding Bootcamp throughout the time of quarantine.</p>
    
    <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
@@ -41,11 +41,10 @@
 <details>
   <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
   <br>
-
-  - Mastering JavaScript
+  
   - Read 30 min a day📖
-  - Sleep early 💤
-  - Wake up early ☀️
+  - Sleeping early 💤
+  - Waking up early ☀️
 
 </details>
 
