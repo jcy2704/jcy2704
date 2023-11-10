@@ -11,7 +11,7 @@
   <br>
   <p align="justify">I see you want to know more about me 😁 I will be happy to tell you more. <br>
   <br>
-    I am <b>21 years old</b>. I graduated from high school 🏫 and pursuing a career in <b>Computer Science</b> at the University of Adelaide. I have had an interest in coding since 7th grade and had the amazing opportunity to master Web Development from the Microverse Coding Bootcamp throughout the time of quarantine.</p>
+    I am <b>21 years old</b>. I am pursuing a career in <b>Computer Science</b> at the University of Adelaide. I have had an interest in coding since 7th grade and had the amazing opportunity to master Web Development from the Microverse Coding Bootcamp throughout the time of quarantine.</p>
    
    <img height=430 width=320 align="right" src="https://64.media.tumblr.com/04c3c993b26180eb0b3477c0f0266b5c/tumblr_prn11eFHDe1we9f2ro1_500.gifv" alt="gif">
   
@@ -25,27 +25,8 @@
    - I won a Volleyball tournament
    - I am addicted to Oreos
    - I want to be more creative
-   - I am interested in business and investments
+   - I am interested in business and investment
    
-  **I am currently**
-   - Reading 'The 10X Rule by Grant Cardone'📖
-   - Working with JavaScript
-   - Learning ReactJS
-   - Eating a Oreo
-   
-</details>
-
-<hr>
-<br>
-
-<details>
-  <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
-  <br>
-  
-  - Read 30 min a day📖
-  - Sleeping early 💤
-  - Waking up early ☀️
-
 </details>
 
 <hr>
